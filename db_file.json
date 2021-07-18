@@ -1,0 +1,55 @@
+{
+  "1": [
+    "Soren Kierkegaard",
+    [
+      "Latin",
+      "Historia",
+      "Existencialismo"
+    ],
+    true
+  ],
+  "10": [
+    "Albert Camus",
+    [
+      "absurdismo",
+      "anarquismo"
+    ],
+    false
+  ],
+  "2": [
+    "Howard Lovecraft",
+    [
+      "Astronomia",
+      "Quimica",
+      "Matematicas"
+    ],
+    false
+  ],
+  "3": [
+    "Isaac Asimov",
+    [
+      "Fisica",
+      "Ciencia ficcion",
+      "Quimica"
+    ],
+    false
+  ],
+  "5": [
+    "Carl Jung",
+    [
+      "Psiquiatria",
+      "Alquimia",
+      "Antropologia"
+    ],
+    true
+  ],
+  "6": [
+    "Vanessa Duries",
+    [
+      "Economia",
+      "Realismo",
+      "Inteligencia Vial"
+    ],
+    false
+  ]
+}
